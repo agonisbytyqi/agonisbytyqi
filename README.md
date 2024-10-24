@@ -48,6 +48,4 @@
   </a>
 </p>
 
-<footer align="center" style="color: #f5f5f5; margin-top: 30px;">
-    &copy; 2024 Agonis Bytyqi
-</footer>
+
