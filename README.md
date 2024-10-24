@@ -13,7 +13,7 @@
 
 
 
-> I’m a software engineer specializing in building robust applications using .NET (C#). On the backend, I focus on developing scalable solutions while adhering to Clean Architecture principles, ensuring maintainability across various projects. I have experience working with microservices architecture, RabbitMQ for messaging, and implementing the Mediator and Event Bus patterns. Additionally, I have worked with repository patterns, the factory pattern, and Domain-Driven Design (DDD). For the frontend, I enjoy crafting dynamic user interfaces using Angular, integrating them seamlessly with my backend solutions. I have also had the opportunity to work on mobile app development, which has further enhanced my skills in creating seamless user experiences across different platforms. 
+> I’m a software engineer specializing in building robust applications using .NET (C#). On the backend, I focus on developing scalable solutions while adhering to Clean Architecture principles, ensuring maintainability across various projects. My experience includes working with microservices architecture, RabbitMQ for messaging, and implementing Mediator and Event Bus for efficient communication. I also utilize various architectural strategies such as repository implementations, factory methods, and Domain-Driven Design to enhance application structure and functionality. For the frontend, I enjoy crafting dynamic user interfaces using Angular, integrating them seamlessly with my backend solutions. I have also had the opportunity to work on mobile app development, which has further enhanced my skills in creating seamless user experiences across different platforms.
 
 
 ---
